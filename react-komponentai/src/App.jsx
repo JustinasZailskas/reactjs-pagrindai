@@ -1,4 +1,4 @@
-import AboutMe from './components/AboutMe';
+
 import CourseList from './components/CourseList';
 import './App.css'
 
